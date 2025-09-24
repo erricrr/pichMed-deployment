@@ -15,7 +15,7 @@ This repository contains the deployment files for the Vin and Michelle Wedding G
 
 ## How to Play
 
-This is a side-scrolling shooter game where you control a ship to defeat themed zombie enemies. The game features multiple levels with increasing difficulty and various themed enemies.
+A side-scrolling shooter game where you battle themed zombie enemies. The game features multiple levels with increasing difficulty and various themed enemies.
 
 **Note**: This game does not support touchscreen controls - keyboard only.
 
@@ -39,11 +39,6 @@ This is a side-scrolling shooter game where you control a ship to defeat themed 
 The game is available to play at: [erricrr.github.io/pichMed-deployment/](erricrr.github.io/pichMed-deployment/)
 
 Simply open the link in your web browser to start playing. No installation or setup required!
-
-## Deployment Information
-
-This repository is configured for automatic deployment to GitHub Pages using GitHub Actions. The deployment files are automatically updated when changes are pushed to the main branch.
-
 
 ## Game Themes
 
