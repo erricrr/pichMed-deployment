@@ -4,21 +4,34 @@ This repository contains the deployment files for the Vin and Michelle Wedding G
 
 **Note**: This repository contains only the deployment files and built assets. The source code is not included in this repository.
 
+**Game Status**: This is a work-in-progress, customized, 2D game. While it's a simple, brainless shooter game, it can serve as a fun stress reliever.
+
 ## Game Features
 
 - Multiple themed levels with different enemies and backgrounds
 - Progressive difficulty with increasing speed
 - Sound effects and background music
 - High score tracking
-- Responsive controls (keyboard and mouse)
 
-## Controls
+## How to Play
 
+This is a side-scrolling shooter game where you control a ship to defeat themed zombie enemies. The game features multiple levels with increasing difficulty and various themed enemies.
+
+**Note**: This game does not support touchscreen controls - keyboard only.
+
+## Keyboard Shortcuts
+
+### Movement & Combat
 - **Arrow Keys**: Move ship up/down
 - **Spacebar**: Fire bullets
+
+### On-Screen Button Shortcuts
+- **E**: Enter (alternative to clicking the Enter button)
+- **P**: Play (alternative to clicking the Play button)
+- **R**: Restart (alternative to clicking the Restart button)
+
+### Standalone Keyboard Controls
 - **P**: Pause/Resume game (only when game is active and no intro popup is visible)
-- **E**: Enter/Continue (only when Enter button is visible on screen)
-- **R**: Restart (only when Restart button is visible on screen)
 - **Q**: Quit (hard exit - may leave game in stuck state, use with caution)
 
 ## Playing the Game

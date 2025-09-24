@@ -9,6 +9,7 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+DEPLOY.md
 .eggs/
 lib/
 lib64/
